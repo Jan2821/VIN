@@ -1,0 +1,5 @@
+{
+  "name": "Autohaus Radtke GmbH - Opel Konfigurator",
+  "description": "Ein professionelles Tool zur Erfassung von Fahrzeugdaten und zum Export als PDF-Angebot für das Autohaus Radtke.",
+  "requestFramePermissions": []
+}
